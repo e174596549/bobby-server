@@ -1,0 +1,7 @@
+{
+  "name": "app",
+  "script": "bin/www",
+  "max_memory_restart": "1G",
+  "out_file": "pm2-logs/log.log",
+  "error_file": "pm2-logs/error.log"
+}
