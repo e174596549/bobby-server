@@ -1,6 +1,6 @@
 const request = require('supertest');
 const {expect} = require('chai');
-const app = require('../app').listen(3001);
+const app = require('../app').listen(3000);
 
 describe('测试用户相关接口', function() {
     it('创建用户', async () => {
