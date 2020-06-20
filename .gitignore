@@ -120,3 +120,4 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
+config/config.json
